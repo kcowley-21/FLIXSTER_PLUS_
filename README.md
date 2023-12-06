@@ -34,7 +34,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-C:\Users\kcowl\OneDrive\Desktop\flixserapp.gif
+![flixserapp](https://github.com/kcowley-21/FLIXSTER_PLUS_/assets/143615915/478a32ff-fdb8-4e80-bafa-4523c6b8768f)
+
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -47,7 +48,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023 [Kyle Cowley]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
